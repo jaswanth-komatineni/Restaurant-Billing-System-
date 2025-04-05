@@ -60,5 +60,3 @@ The system follows a simple workflow:
 
 ---
 
-Feel free to update the repository link, add screenshots, or refine the content to match your style. Let me know if you’d like any adjustments!
-
